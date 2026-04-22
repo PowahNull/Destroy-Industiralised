@@ -1,13 +1,18 @@
 # Destroy
+Destroy-Industiralised is a fork of petrolpark's Destroy addon for the Create mod. This version focuses on stability and adding new advanced industry
 
-Destroy is a chemistry-themed add-on to the popular Create mod. Right now it's under development.
-
+# Original mod
 Find out more on the [Discord](https://discord.gg/6EBJ3AzbHu) and [Modrinth](https://modrinth.com/mod/destroy/) page.
 
-Currently, 1.0 is in development. **This will still be a beta release**.
+# Focus
+There are some major focuses for Destroy-Industiralised, mainly:
+- Optimisation
+- Bug fixes
+- Code cleanup
+- More organic chemistry reactions
+- Electrochemistry
+- More use for products (power generation, tools, etc...)
+- Compat with other mods (plastic tools in tetra, create diesel generators, etc...)
 
 # License
-
 All rights are reserved unless otherwise explicitly stated.
-
-
