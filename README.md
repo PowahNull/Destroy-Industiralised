@@ -1,4 +1,7 @@
-# This is the 1.21.1 Neoforge branch
+# 1.21.1 Neoforge
+Destroy is in the process of being ported to 1.21.1
+This will take a LONG LONG time
+
 # Destroy
 Destroy-Industiralised is a fork of petrolpark's Destroy addon for the Create mod. This version focuses on stability and adding new advanced industry
 
